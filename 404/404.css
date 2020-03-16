@@ -3,6 +3,7 @@
   padding: 0px;
 }
 
+
 h1{
     font-size: 1000%;
     font-family: 'Baloo Chettan 2', cursive;
@@ -30,7 +31,9 @@ img{
 #flex3{
         width: 50%;
         text-align: center;
-        margin-top: 15%;
+        padding-top: 12%;
+        background-color: #F25B63;
+        height: 1080px;
 }
 
 h2{
