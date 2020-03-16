@@ -1,0 +1,57 @@
+*
+{ margin: 0px;
+  padding: 0px;
+}
+
+
+h1{
+    font-size: 1000%;
+    font-family: 'Baloo Chettan 2', cursive;
+    color: whitesmoke;
+}
+
+img{
+    margin-left: 12%;
+    margin-top: 15%;
+
+}
+
+#flex{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        height: 100%;
+        width: 100%;
+}
+
+#flex2{
+        width: 50%;
+}
+
+#flex3{
+        width: 50%;
+        text-align: center;
+        padding-top: 12%;
+        background-color: #F25B63;
+        height: 1080px;
+}
+
+h2{
+    font-family: 'Baloo Chettan 2', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-size: 200%;
+    color: whitesmoke;
+}
+
+h3{
+    font-family: 'Baloo Chettan 2', cursive;
+    font-size: 80%;
+    font-family: 'Indie Flower', cursive;
+    margin-top: 2%;
+    color: whitesmoke;
+
+}
+
+body{
+        background-repeat:no-repeat;
+}
